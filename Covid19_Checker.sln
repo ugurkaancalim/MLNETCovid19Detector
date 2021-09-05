@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covid19_Checker", "Covid19_Checker\Covid19_Checker.csproj", "{AF0AEC70-9FD0-4FE0-BE3F-22B5942ECB91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF0AEC70-9FD0-4FE0-BE3F-22B5942ECB91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0AEC70-9FD0-4FE0-BE3F-22B5942ECB91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF0AEC70-9FD0-4FE0-BE3F-22B5942ECB91}.Debug|x64.ActiveCfg = Debug|x64
+		{AF0AEC70-9FD0-4FE0-BE3F-22B5942ECB91}.Debug|x64.Build.0 = Debug|x64
+		{AF0AEC70-9FD0-4FE0-BE3F-22B5942ECB91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF0AEC70-9FD0-4FE0-BE3F-22B5942ECB91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF0AEC70-9FD0-4FE0-BE3F-22B5942ECB91}.Release|x64.ActiveCfg = Release|x64
+		{AF0AEC70-9FD0-4FE0-BE3F-22B5942ECB91}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAFFB1DC-4376-48D4-9FC6-DAFE84A0B503}
+	EndGlobalSection
+EndGlobal
